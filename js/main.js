@@ -6,9 +6,9 @@ let elFoot = document.querySelector('.hero__text-foot');
 let elBike = document.querySelector('.hero__text-bike');
 let elCar = document.querySelector('.hero__text-car');
 let elPlane = document.querySelector('.hero__text-plane');
-let foot = 3.6;
+let foot = 2.5;
 let bicycle = 20.1;
-let car = 80;
+let car = 110;
 let airplane = 800;
 elForm.addEventListener('submit', function (event) {
     event.preventDefault();
